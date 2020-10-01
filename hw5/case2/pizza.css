@@ -20,6 +20,7 @@ body, header, section, aside, footer, nav {
 * {
 	padding: 0px;
 	margin: 0px;
+	box-sizing: border-box;
 }
 
 /* Set the defaults */
