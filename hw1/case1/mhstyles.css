@@ -13,6 +13,12 @@
 
 /* Section Styles */
 
+*{
+   margin:0px;
+   padding:0px;
+   box-sizing:border-box;
+}
+
 body {
 margin: 0px auto;
 padding: 0px;
